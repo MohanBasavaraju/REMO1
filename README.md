@@ -17,7 +17,7 @@ With **10 years of experience**, I specialize in optimizing infrastructure, auto
 - ✅ **Microsoft Certified: Azure Administrator Associate (AZ-104)**  
 
 ## 🏆 Notable Achievements  
-✨ Attended **TechDay HQ Event, USA** to collaborate on cutting-edge innovations  
+✨ Attended **TechDay HQ Event, USA** to collaborate on Cloud AI innovations  
 📢 Delivered a **technical talk on Essentials of Cloud Computing** to **MYCEM engineering students in 2024**  
 🚀 Developed automated **CI/CD pipelines** for seamless deployments  
 🛠 Built **Infrastructure as Code** solutions for scalable cloud environments  
