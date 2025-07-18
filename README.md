@@ -19,6 +19,7 @@ With **10 years of experience**, I specialize in optimizing infrastructure, auto
 ## 🏆 Notable Achievements  
 ✨ Attended **TechDay HQ Event, USA** to collaborate on Cloud AI innovations  
 📢 Delivered a **technical talk on Essentials of Cloud Computing** to **MYCEM engineering students in 2024**
+
 📢 Delivered a **technical talk on Essentials of Cloud Computing & AI ** to **JSS Degree students in 2025**  
 🚀 Developed automated **CI/CD pipelines** for seamless deployments  
 🛠 Built **Infrastructure as Code** solutions for scalable cloud environments  
