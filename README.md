@@ -8,7 +8,7 @@ A passionate **Cloud DevOps Engineer** from India  currently working at **Infosy
 - 💻 **Programming:** Python, Golang  
 - 📂 **Backup & Storage:** Commvault, Avamar, Veeam, DataDomain, NetApp  
 
-With **10 years of experience**, I specialize in optimizing infrastructure, automating workflows, and ensuring robust cloud solutions.  
+With **10 years of IT Experience**, I specialize in optimizing infrastructure, automating workflows, and ensuring robust cloud solutions.  
 
 ![dataengineerexerciseball-1](https://github.com/user-attachments/assets/0e24022e-d57c-472e-82d1-63054958fadf)
 
@@ -26,6 +26,8 @@ With **10 years of experience**, I specialize in optimizing infrastructure, auto
 ![WhatsApp Image 2025-05-13 at 12 05 33 AM](https://github.com/user-attachments/assets/f6a9e60a-941d-49d1-8631-e440c8f59862)
 ![WhatsApp Image 2025-05-12 at 11 56 35 PM](https://github.com/user-attachments/assets/2327121b-03c6-4569-ac59-18a7f2961f80)
 ![WhatsApp Image 2025-05-12 at 11 56 33 PM](https://github.com/user-attachments/assets/e4b32a96-fb02-4715-81a9-30d966d05f9e)
+
+![IMG_4117](https://github.com/user-attachments/assets/863a985e-2d57-4ebf-9abb-45d52be06f81)
 
 
 
