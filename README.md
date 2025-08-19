@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me  
 A passionate **Cloud DevOps Engineer** from India  currently working at **Infosys Privt Limited**, with expertise in:
 - ☁ **Cloud Technologies:** Azure, AWS  
-- 🛠 **DevOps & Automation:** Docker, Kubernetes  
+- 🛠 **DevOps & Automation:** Docker, Kubernetes ,GitHub, Jenkins, Ansible, Terraform
 - 💻 **Programming:** Python, Golang  
 - 📂 **Backup & Storage:** Commvault, Avamar, Veeam, DataDomain, NetApp  
 
